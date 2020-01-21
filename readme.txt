@@ -18,9 +18,10 @@ install dependecies
 edit package.json file with:
 ,
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcryptjs": "^2.4.3",
     "config": "^2.0.1",
     "cors": "^2.8.4",
+    "express": "^4.17.1",
     "joi": "^13.6.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
